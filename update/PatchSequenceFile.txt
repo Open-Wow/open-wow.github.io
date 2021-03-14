@@ -1,0 +1,13 @@
+[special]
+
+[GAME]
+
+[WoWT]
+
+[WoW]
+CurrentBuild=12343
+12340=wow-patch-12340.mpq
+12341=wow-patch-12341.mpq
+12342=wow-patch-12342.mpq
+
+[BACKGROUND]
